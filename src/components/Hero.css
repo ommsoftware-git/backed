@@ -1,0 +1,44 @@
+.hero {
+  background-image: url("./images/hero-banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.content h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+
+  color: #1b4698;
+}
+.content span {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+
+  color: #ef2c40;
+}
+.content p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 26px;
+  color: #000000;
+}
+.heroImgWrapper {
+  margin-top: 5rem;
+}

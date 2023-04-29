@@ -1,0 +1,45 @@
+.customer {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  overflow-x: hidden;
+  height: auto;
+  overflow: hidden;
+}
+
+.customer h1 {
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #1b4698;
+  margin-bottom: 5rem;
+}
+
+.customer-card {
+  width: 100%;
+  height: 435px;
+  background: #ffffff;
+  border: 1px solid #1b4698;
+  border-radius: 10px;
+  padding: 3rem;
+  gap: 2rem;
+}
+
+.c-first-img {
+  width: 110px;
+  height: 131px;
+}
+
+.c-second-img {
+  width: 192px;
+  height: 189px;
+}
+.c-bottom-text {
+  text-align: center;
+  padding: 1rem;
+}
+.c-text {
+  color: #1b4698;
+  font-weight: 800;
+}
